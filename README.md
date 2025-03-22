@@ -1,6 +1,6 @@
-# Marcus Batista⚡
+# Marcus Batista ⚛️🤓
 
-Olá! Marcus aqui! Acadêmico de Ciência da Computação, designer, web designer, gamer, fotógrafo, músico e pai de um pequeno samurai. ⚡Nerd r41z!⚡
+Olá! Marcus aqui! Acadêmico de Ciência da Computação, designer, web designer, gamer, fotógrafo, músico e pai de um pequeno samurai. Nerd r41z!
 
 ## 📊 Minhas Estatísticas
 ![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusbatistadev&show_icons=true&theme=react&count_private=true)
