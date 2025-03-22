@@ -1,16 +1,19 @@
-## Hi there 👋
+# Marcus Batista 👨‍💻
 
-<!--
-**marcusbatistadev/marcusbatistadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Eu sou o *Marcus Batista*, estudante de Ciência da Computação 🚀 e apaixonado por tecnologia. Estou sempre aprendendo novas linguagens e frameworks para melhorar minhas habilidades e me tornar um engenheiro de software de alto nível 💡.
 
-Here are some ideas to get you started:
+## 📊 Minhas Estatísticas
+![Rafael's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rafaelgoesti&show_icons=true&theme=react&count_private=true)
+## 🌐 Tecnologias
+| <img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png"> | <img title="Flask" alt="Flask" width="40px" src="https://img.icons8.com/ios-filled/FFFFFF/flask.png"> | <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/django/django.png"> | <img title="PHP" alt="PHP" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> | <img title="C#" alt="C#" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> | <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png"> | <img title="MySQL" alt="MySQL" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> | <img title="Linux Mint" alt="Linux Mint" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"> | <img title="VS Code" alt="VS Code" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png"> |
+|--|--|--|--|--|--|--|--|--|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contato
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]()
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)]()
