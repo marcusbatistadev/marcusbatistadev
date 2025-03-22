@@ -1,4 +1,4 @@
-# Marcus Batista ⚛️🤓
+# Marcus Batista ⚛️🤘🏻🤨
 
 Olá! Marcus aqui! Acadêmico de Ciência da Computação, designer, web designer, gamer, fotógrafo, músico e pai de um pequeno samurai. Nerd r41z!
 
