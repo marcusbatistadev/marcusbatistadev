@@ -1,6 +1,6 @@
 # Marcus Batista 👨‍💻
 
-Olá! Eu sou o *Marcus Batista*, estudante de Ciência da Computação 🚀 e apaixonado por tecnologia. Estou sempre aprendendo novas linguagens e frameworks para melhorar minhas habilidades e me tornar um engenheiro de software de alto nível 💡.
+Olá! Marcus aqui! Sou estudante de Ciência da Computação, designer, web-designer, gamer, músico nas horas vagas e pai de um pequeno samurai. Um Nerd r41z!!!
 
 ## 📊 Minhas Estatísticas
 ![Marcus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcusbatistadev&show_icons=true&theme=react&count_private=true)
